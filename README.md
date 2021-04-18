@@ -1,2 +1,2 @@
-# ds-palugada.github.io
-DS Palugada Blog
+# kerahbirypy.github.io
+Kerah Biru Blog
